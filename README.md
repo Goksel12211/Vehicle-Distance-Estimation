@@ -48,4 +48,16 @@ To run this app, you will need to follow these 3 steps:
   
   # Activate the Pipenv shell
   $ pipenv shell
+  ```
+#### Contributors
+  <table>
+  <tr>
+    <td align="center"><a href="https://github.com/Goksel12211"><img src="https://avatars.githubusercontent.com/Goksel12211?v=4" width="100px;" alt=""/><br /><sub><b>Göksel Kınalı</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/ysfArslan1"><img src="https://avatars.githubusercontent.com/ysfArslan1?v=4s=100" width="100px;" alt=""/><br /><sub><b>Yusuf Arslan</b></sub></a><br /></td>
+<td align="center"><a href="https://github.com/oguzhankoc55"><img src="https://avatars.githubusercontent.com/oguzhankoc55?v=4s=100" width="100px;" alt=""/><br /><sub><b>Oğuzhan Koç </b></sub></a><br /></td>
+<td align="center"><a href="https://github.com/caglaozbb"><img src="https://avatars.githubusercontent.com/caglaozbb?v=4s=100" width="100px;" alt=""/><br /><sub><b>Çağla Özbaba </b></sub></a><br /></td>
+
+  </tr>
   
+</table>
+
